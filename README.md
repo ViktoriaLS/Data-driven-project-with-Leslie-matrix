@@ -13,6 +13,16 @@ This repository contains the data and Python/Jupyter notebooks used to reproduce
 - `README.md`
 
 ## Software requirements
+The analyses were developed using Python 3 and Jupyter Notebook (Anaconda distribution).
+
+Required Python packages:
+
+- numpy
+- pandas
+- matplotlib
+- scipy
+- openpyxl
+  
 ## Data description
 ## Reproducing the content
 Each notebook is independent and can be run separately.
