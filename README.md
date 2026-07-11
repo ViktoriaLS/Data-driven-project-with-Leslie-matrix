@@ -10,6 +10,8 @@ This repository contains the data and Python/Jupyter notebooks used to reproduce
 ├── Projections_Time-dependent_Leslie.ipynb
 ├── LICENSE
 └── README.md
+# Software requirements
+# Data description
 # Reproducing the content
 Each notebook is independent and can be run separately.
 Open the desired notebook in Jupyter Notebook or JupyterLab and execute all cells from top to bottom.
