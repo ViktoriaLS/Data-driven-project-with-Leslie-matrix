@@ -24,6 +24,8 @@ Required Python packages:
 - openpyxl
   
 ## Data description
+The repository contains the Excel workbook `data.xlsx`, which includes the datasets used throughout the analyses. The data are based on long-term monitoring of female American shad conducted by the Connecticut Department of Energy and Environmental Protection (CT DEEP). For the purposes of this project, data were organized into worksheets corresponding to the analyses performed in the notebooks. 
+
 ## Reproducing the content
 Each notebook is independent and can be run separately.
 Open the desired notebook in Jupyter Notebook or JupyterLab and execute all cells from top to bottom.
