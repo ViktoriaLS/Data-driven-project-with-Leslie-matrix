@@ -2,6 +2,7 @@
 ## Overview
 This repository contains the data and Python/Jupyter notebooks used to reproduce the analyses and figures presented in the manuscript "A Data-Driven Classroom Project Using Leslie Matrices." The repository includes the raw data, analysis notebooks, and supporting code needed to reproduce all figures and tables in the manuscript.
 ## Repository contents
+
 - `data.xlsx` – Dataset used throughout the analyses.
 - `Trend analysis (simple linear regression).ipynb`
 - `Constructing_Leslie_Dominant_eigenvalue_SAD.ipynb`
