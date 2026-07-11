@@ -38,3 +38,9 @@ Computes the sensitivity and elasticity matrices for the Leslie matrix. The note
 **Input:** Leslie matrix.
 
 **Output:** Sensitivity and elasticity matrices (numerical values and annotated heatmaps).
+### Impact_of_parameters_Scenarios.ipynb
+Evaluates the effects of changes in age-specific fecundity and survival on the Leslie matrix model. Individual parameters are perturbed under predefined scenarios, and the resulting stable age distributions and population growth rates are compared with the baseline model.
+
+**Input:** Leslie matrix.
+
+**Output:** Scenario comparison figures and summary statistics.
