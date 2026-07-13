@@ -1,6 +1,7 @@
 # Data-driven_project_with_Leslie_matrix
 ## Overview
-This repository contains the data and Python/Jupyter notebooks used to reproduce the analyses, tables, and figures presented in the manuscript "A Data-Driven Classroom Project Using Leslie Matrices." 
+This repository contains the data and Python/Jupyter notebooks used to reproduce the analyses, tables, and figures presented in the manuscript "A Data-Driven Classroom Project Using Leslie Matrices." It also has selected assignments that may be used directly or adapted by instructors to provide different levels of scaffolding depending on students' mathematical and programming backgrounds.
+
 ## Repository contents
 
 - `data.xlsx` – Dataset used throughout the analyses.
@@ -9,6 +10,7 @@ This repository contains the data and Python/Jupyter notebooks used to reproduce
 - `Sensitivity and Elasticity matrices.ipynb`
 - `Impact_of_parameters_Scenarios.ipynb`
 - `Projections_Time-dependent_Leslie.ipynb`
+-  `Assignments`
 - `LICENSE`
 - `README.md`
 
