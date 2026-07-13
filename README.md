@@ -69,3 +69,7 @@ Compares long-term population projections obtained from a baseline Leslie matrix
 **Input:** `data.xlsx`, Leslie matrix.
 
 **Output:** Population projections and comparison figure.
+
+## Assignments folder description
+
+The `assignments` folder contains scaffolded assignments accompanying selected Jupyter notebooks. These assignments provide mathematical background, guided programming exercises, code templates, and interpretation questions. Instructors may want to adapt them to suit their courses.
